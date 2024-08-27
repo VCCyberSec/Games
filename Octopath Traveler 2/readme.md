@@ -33,7 +33,7 @@ Crossed paths with [Ochette](Ochette.md)\
 [Subjobs](Castti.md/#subjobs)\
 [Primary Skills](Castti.md/#apothecary-skills)\
 [Support Skills](Castti.md/#support-skills)\
-[EX Skills](Castti.md/#ex-skills)
+[EX Skills](Castti.md/#ex-skills)\
 **Best Subjob:** Cleric
 
 ## Hikari Ku, a Warrior from the desert region of Hinoeuma.
@@ -53,7 +53,7 @@ Crossed paths with [Castti](Castti.md)\
 [Subjobs](Ochette.md/#subjobs)\
 [Primary Skills](Ochette.md/#hunter-skills)\
 [Support Skills](Ochette.md/#support-skills)\
-[EX Skills](Ochette.md/#ex-skills)
+[EX Skills](Ochette.md/#ex-skills)\
 **Best Subjob:** Warrior
 
 ## Osvald V. Vanstein, a Scholar imprisoned in the snowswept reaches of the Winterlands.
