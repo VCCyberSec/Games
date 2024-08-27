@@ -1,6 +1,6 @@
 # Games
 
-[Final Fantasy X](Final Fantasy X/readme.md)
+[Final Fantasy X](Games/Final Fantasy X/readme.md)
 
 [Final Fantasy XII](Final Fantasy XII/readme.md)
 
