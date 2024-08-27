@@ -1,6 +1,7 @@
 # Games
 
 [Final Fantasy X](https://github.com/VCCyberSec/Games/blob/main/Final%20Fantasy%20X/readme.md)
+[Final Fantasy X](Games/Final Fantasy X/readme.md)
 
 [Final Fantasy XII](https://github.com/VCCyberSec/Games/blob/main/Final%20Fantasy%20XII/readme.md)
 
