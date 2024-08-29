@@ -16,6 +16,8 @@ Octopath Traveler Wiki (https://octopathtraveler.fandom.com/wiki)
 
 IGN (https://www.ign.com/wikis/octopath-traveler-2/)
 
+Game8 (https://game8.co/games/Octopath-Traveler-2)
+
 ## Agnea Bristarni, a Dancer from the verdant region of the Leaflands.
 Crossed paths with [Hikari](Hikari.md)\
 [Talent](Agnea.md/#talent)\
