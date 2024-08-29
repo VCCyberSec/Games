@@ -39,7 +39,7 @@ Inventor pairs very well with Throné's Latent Ability, Leave No Trace, speeding
 | Life in the Shadows  |            7            |   4630    | Receive additional EXP and JP after battles at night. (Equipping multiple characters with this skill will have no added effect.)  |             |
 
 ### EX Skills
-| **EX Skill Name ** | SP  | Damage Type  |                                         Description                                         |                     Unlock Method                     |
+|   EX Skill Name    | SP  | Damage Type  |                                         Description                                         |                     Unlock Method                     |
 |:------------------:|:---:|:------------:|:-------------------------------------------------------------------------------------------:|:-----------------------------------------------------:|
 | Veil of Darkness   | 25  |      Dark       | Deal dark-based  damage to all foes, and dodge 1 physical attack with a 100% success rate.  | Visit the Altar of the Prince of Thieves with Throné  |
 | Disguise           | 18  |              | Disguise a single  ally for 2/4/6/8 turns.                                                  | Complete Throné's story                               |
