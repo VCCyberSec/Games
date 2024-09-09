@@ -9,6 +9,8 @@ However, due to the nature of the objective that requires Partitio to purchase t
 Hoot and Holler: Partitio's BP is replenished to the max. 
 
 ### Subjobs
+**Arcanist's** Seal of Diffusion turns Partitio's self-buffs into party-wide ones. For example, being able to use an AOE Rest allows him to restore HP and SP to all party members for free. Otherwise, a party-wide Sidestep grants complete immunity to all physical attacks.
+
 Warrior's Incite and Vengeful Blade can be combined with Partitio's innate Sidestep to draw, dodge and counter all incoming attacks.
 
 Thief's Armor Corrosive debuff is one of the few ways to increase the damage from Partitio's innate Hired Help, since buffs do not affect that Skill. This combination also makes Partitio an expert money farmer, centralizing his innate Collect and the subjob's Steal in one character. Finally, this combo opens an unorthodox way to keep track of enemy health, since the success rate of both these money collecting skills increases when enemies are at low health.
@@ -19,7 +21,6 @@ Cleric, much like Scholar, allows Partitio to become an SP battery after he unlo
 
 Inventor is often recommended to Partitio since the subjob benefits from his Latent Power, Hoot and Holler, allowing him to extend the subjobs many buffs.
 
-**Arcanist's** Seal of Diffusion turns Partitio's self-buffs into party-wide ones. For example, being able to use an AOE Rest allows him to restore HP and SP to all party members for free. Otherwise, a party-wide Sidestep grants complete immunity to all physical attacks.
 
 ### Merchant Skills
 |     Skill Name     | SP  | Type  |                                                    Description                                                    |

@@ -16,31 +16,26 @@ After knocking out the Debt Collector, head inside the house and talk to the Ret
 All you need to do next is to find the other 5 Rusty Weapons to unlock all of the Armsmaster's Job Skills. Make sure to equip the Divine Weapons to Hikari so he can use the Armsmaster Job Skill associated with it.
 
 ### Warrior Skills
-|    Skill Name     | SP  | Type  |                                     Description                                      |
-|:-----------------:|:---:|:-----:|:------------------------------------------------------------------------------------:|
-| Healing Touch     |  6  |       | Restore HP to or revive a single ally.                                               |
-| Icicle            |  7  |   #   | Deal ice-based damage to a single foe.                                               |
-| Rehabilitate      | 10  |       | Grant a single ally immunity to status ailments for 2/4/6/8 turns.                   |
-| Sweeping Cleave   |  9  |   #   | Unleash an axe attack on all foes.                                                   |
-| Poison Axe        | 12  |   #   | Unleash a powerful axe attack on a single foe, and poison them for 2 turns.          |
-| Replenish Health  |  9  |       | For 3/5/7/9 turns, grant HP to a single ally after they perform an action.           |
-| Weak to Poison    |  4  |       | Make a single foe weak to poison for 2/4/6/8 turns.                                  |
-| Dohter's Charity  | 30  |       | [Divine Skill] Extend the reach of a single ally's items to affect all for 3 turns.  |
+| Skill | Description | Damage Type | SP |
+|:---:|:---:|:---:|:---:|
+|              Abide         |         Raise your physical attack for 3 turns.              |                        -                            |         4              |
+|              Stout Wall         |         Raise your physical defense for 3 turns.              |                        -                            |         4              |
+|              Incite         |         Draw foes' single-target attacks to yourself for 3 turns.              |                        -                            |         4              |
+|              Vengeful Blade         |         Grant yourself the ability to counter physical damage with a sword attack 2 times.              |           Sword                                        |         6              |
+|              Enervating Slash         |         Nullify all positive status effects on a single foe, then unleash a sword attack.              |       Sword                                        |         7              |
+|              Aggressive Slash         |         Unleash a sword attack on random foes 3 times.              |            Sword                                        |         9              |
+|              Piercing Thrust         |         Unleash a powerful polearm attack on a single foe, and have a 25% chance deal a critical hit.              |           Polearm                                        |         12              |
 
 ### Support Skills
-|   Support Skill Name   | No. of Skills Unlocked  | Total JP  |                                            Description                                             |
-|:----------------------:|:-----------------------:|:---------:|:--------------------------------------------------------------------------------------------------:|
-| Vigorous Victor        |            4            |    130    | Restores 30% of the equipping character's max HP and SP upon winning the battle.                   |
-| Hale and Hearty        |            5            |    630    | Raises the equipping character's max HP by 500.                                                    |
-| Inspiriting Break      |            6            |   1630    | Restores the equipping character's SP when breaking a foe.                                         |
-| Preventative Measures  |            7            |   4630    | Grants the equipping character immunity to enfeebling effects for 3 turns at the start of battle.  |
-| Poison Axe             |           12            |     #     | Unleash a powerful axe attack on a single foe, and poison them for 2 turns.                        |
-| Replenish Health       |            9            |           | For 3/5/7/9 turns, grant HP to a single ally after they perform an action.                         |
-| Weak to Poison         |            4            |           | Make a single foe weak to poison for 2/4/6/8 turns.                                                |
-| Dohter's Charity       |           30            |           | [Divine Skill] Extend the reach of a single ally's items to affect all for 3 turns.                |
+| Skill | Description | Req. Skills |
+|:---:|:---:|:---:|
+|              Bolstering Break         |         Raises the equipping character's physical attack when breaking an enemy.              |         4   (130 Total JP)                             |
+|              Summon Strength         |         Raises the equipping character's physical attack by 50.              |              5   (630 Total JP)                        |
+|              Latent Power Plus         |         Raises the amount of latent power gained by the equipping character.              |                   6   (1,630 Total JP)                   |
+|              Deal More Damage         |         Increases the maximum damage that can be dealt by the equipping character to 99,999.              |                        7   (4,630 Total JP)              |             |
 
 ### EX Skills
-|     EX Skill Name        |     SP     |     Description                                                                                                                                                       |     Unlock Method                                       |   |
-|--------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|---|
-|     Drastic Measures     |     18     |     Unleash a powerful axe attack on a single foe and nullify   their status ailments and enfeebling effects. The more you nullify, the more   potent the attack.     |     Visit the Altar of the Charitable with Castti       |   |
-|     Remedy               |     22     |     Grant a random ally 3/5/7/9 positive status effects.         
+| Skill | Description | Damage Type | SP |
+|:---:|:---:|:---:|:---:|
+|              Ultimate Stance         |         Extend the reach of your Attack to all foes for 3/5/7/9 turns.               |                        -                            |         10              |
+|              Shinjumonjigiri         |         Unleash a sword attack on all foes, then a powerful sword attack on a single foe.              |            Sword                                        |         32              |

@@ -4,9 +4,9 @@ Agnea's Talent is Dance Session. If she has allured a townsperson with her Day P
 This does not require the townsperson to be summoned into battle and can be used infinitely until they leave through normal means. Each recruitable person provides one specific effect, which is listed below their normal signature move when viewing them through her Path actions. 
 
 ### Latent Power
-Agnea's Talent is Dance Session. If she has allured a townsperson with her Day Path action, they will grant an additional effect when Agnea uses Lion Dance, Peacock Strut or Dagger Dance. In the first two cases, they will provide the benefit to the targeted party member (or a random party member if the effect is spread). In the latter, they will target Agnea instead.
+Agnea's Latent Power is **All Together Now** where she performs a Lion Dance to extend the reach of single-target skills to all.
 
-This does not require the townsperson to be summoned into battle and can be used infinitely until they leave through normal means. Each recruitable person provides one specific effect, which is listed below their normal signature move when viewing them through her Path actions.
+With this power, you can apply buffs like the Lion Dance to everyone in the party instead of just a single ally. You can also use this along with Ruinous Kick to reduce enemy shield points and break them easily.
 
 ### Subjobs
 Merchant turns Agnea into the best JP and money farmer in the game. The subjobs is normally limited by its farming skills being single-target, but she can make them party-wide with her main job's Divine Skill, Sealticge's Seduction and her Latent Power, All Together Now; which can be spammed using the Merchant's Full Power support skill to refill her Latent Power at start of combat.
