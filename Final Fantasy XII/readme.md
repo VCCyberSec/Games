@@ -20,17 +20,13 @@ Jegged (https://jegged.com/Games/Final-Fantasy-XII/)
 Game8 (https://game8.co/games/Final-Fantasy-XII)
 
 ### Characters
-Vaan - All of his stats are strong and he does well in any job.
+**MAIN TEAM**\
+Vaan - All of his stats are strong and he does well in any job. [Shikari / Foebreaker]\
+Basch - Strong HP and similarly high strength to Vaan, he does well with physical jobs. [Knight / Bushi]\
+Ashe - High Magick and high strength, she does well with many jobs. [Machinist / White Mage]
 
-Balthier - Strong HP and Strength, does better with physical jobs.
-
+**EXTRA TEAM**\
+Balthier - Strong HP and Strength, does better with physical jobs. [Knight / Time Mage]\
 Fran - Her stats are the weakest, she does not excel at anything; you may want to have her be an Archer or a Machinist if you intend to 
-choose every job once.
-
-Basch - Strong HP and similarly high strength to Vaan, he does well with physical jobs.
-
-Ashe - High Magick and high strength, she does well with many jobs.
-
-Penelo - Highest MP, she is strongest with mage jobs.
-
-Vaan, Balthier and Basch have the highest combo speed which makes them ideal for physical jobs
+choose every job once. [Shikari / White Mage]\
+Penelo - Highest MP, she is strongest with mage jobs. [Red / Black Mage]
