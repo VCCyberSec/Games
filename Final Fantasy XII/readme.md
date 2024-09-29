@@ -26,7 +26,7 @@ Basch - Strong HP and similarly high strength to Vaan, he does well with physica
 Ashe - High Magick and high strength, she does well with many jobs. [Machinist / White Mage]
 
 **EXTRA TEAM**\
-Penelo - Highest MP, she is strongest with mage jobs. [Red / Black Mage]
+Penelo - Highest MP, she is strongest with mage jobs. [Red / Black Mage]\
 Balthier - Strong HP and Strength, does better with physical jobs. [Knight / Time Mage]\
 Fran - Her stats are the weakest, she does not excel at anything; you may want to have her be an Archer or a Machinist if you intend to 
-choose every job once. [Shikari / White Mage]\
+choose every job once. [Shikari / White Mage]
